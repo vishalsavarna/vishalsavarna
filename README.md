@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.cse.iitk.ac.in/users/vishalsavarna/"><img width="80%" alt="Hello, I'm Vishal Savarna, I do Everything!" src="./header.png" /></a></p>
+<p align="center"><a href="https://www.cse.iitk.ac.in/users/vishalsavarna/"><img width="60%" alt="Hello, I'm Vishal Savarna, I do Everything!" src="./header.png" /></a></p>
 
 <br />
 <h3 align="center">As a postgraduate student in Computer Science at IIT Kanpur, I focus on the areas of machine learning, deep learning, algorithm design, and web development.</h3>
