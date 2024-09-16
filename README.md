@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Vishal Savarna</h1>
+<p align="center"><a href="https://www.cse.iitk.ac.in/users/vishalsavarna/"><img width="80%" alt="Hello, I'm Vishal Savarna, I do interesting things!" src="./header.png" /></a></p>
+
+<br />
 <h3 align="center">As a postgraduate student in Computer Science at IIT Kanpur, I focus on the areas of machine learning, deep learning, algorithm design, and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsavarna&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsavarna" /> </p>
